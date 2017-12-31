@@ -32,4 +32,4 @@ Some images used within PufferPanel are Copyright (c) their respective owners.
 
 Repositories graciously hosted by [packagecloud](https://packagecloud.io)
 
-[![packagecloud](https://packagecloud.io/images/packagecloud-badge.png)](https://packagecloud.io)
+[![packagecloud](https://packagecloud.io/images/packagecloud-badge.png)](https://packagecloud.io)hj
